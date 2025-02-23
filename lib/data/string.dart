@@ -124,7 +124,13 @@ class Strings {
         "\tAnlaştığınız burçlar: Boğa, Oğlak\n\n"
         "\tAnlaşamadığınız burçlar: İkizler, Yay, Balık\n\n"
         "\tBaşarılı olacağınız meslekler: Edebiyat alanı, yazarlık, eczacılık, muhasebecilik , araştırmacılık\n\n"
-        "\tBurcunuzdan olan ünlüler: Büyük İskender, Uğur Dündar, Sophia Loren, Michael Jackson, Vitali Hakko, Richard Gere, Sean Connery\n\n",
+        "\tBurcunuzdan olan ünlüler: Büyük İskender, Uğur Dündar, Sophia Loren, Michael Jackson, Vitali Hakko, Richard Gere, Sean Connery\n\n"
+        "\tBurcunuzdan olan ünlüler: Büyük 325asg, Uğur Dündar, Sophia Loren, Michael Jackson, Vitali Hakko, Richard Gere, Sean Connery\n\n"
+        "\tBurcunuzdan olan ünlüler: Büyük 1asd, Uğur Dündar, Sophia Loren, Michael Jackson, Vitali Hakko, Richard Gere, Sean Connery\n\n"
+        "\tBurcunuzdan olan ünlüler: Büyük 6436, Uğur Dündar, Sophia Loren, Michael Jackson, Vitali Hakko, Richard Gere, Sean Connery\n\n"
+        "\tBurcunuzdan olan ünlüler: Büyük asdf, Uğur Dündar, Sophia Loren, Michael Jackson, Vitali Hakko, Richard Gere, Sean Connery\n\n"
+        "\tBurcunuzdan olan ünlüler: Büyük 55, Uğur Dündar, Sophia Loren, Michael Jackson, Vitali Hakko, Richard Gere, Sean Connery\n\n"
+        "\tBurcunuzdan olan ünlüler: Büyük 124, Uğur Dündar, Sophia Loren, Michael Jackson, Vitali Hakko, Richard Gere, Sean Connery\n\n",
     "\tGenel Özellikler\n\n"
         "\tYönetici yıldızınız: Venüs\n\n"
         "\tGrubunuz: Hava\n\n"
